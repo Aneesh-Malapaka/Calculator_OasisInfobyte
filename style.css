@@ -149,8 +149,3 @@ body{
   ::-webkit-scrollbar-thumb:hover {
     background: #7467ad;
   }
-
-
-@media screen and (max-width:375px) and(max-height:812px){
-   
-}
